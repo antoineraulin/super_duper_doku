@@ -6,4 +6,4 @@ Ce mini projet à pour but de te familiariser avec les commandes Git et les fonc
 
 <ul><li><p>Cliquer sur le bouton <a href="https://github.com/antoineraulin/super_duper_doku/fork"><img height="24px" alt="Fork" src=".assets/fork.png"></a> ici ou en haut de la page pour copier le projet sur ton compte Github</p></li></ul>
 
-- Dès que le projet est copié sur un des compte GitHub de ton groupe, tu peux le cloner en local sur vos PC avec `git clone`.
+- Dès que le projet est copié sur un des compte GitHub de ton groupe, tu peux le cloner en local sur ton PC avec `git clone`.
