@@ -172,5 +172,6 @@ function tableToArray(table) {
 
 async function sendToBackend() {
   // J'ai tout cassé, hehe
-  alert("C'est cassé");
+  alert("C'est cassé ! :(");
+  // ! qui à fait ça ?
 }
